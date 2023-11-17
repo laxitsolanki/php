@@ -1,0 +1,46 @@
+/*
+theme name:my 
+version:450
+author:	BCA-B
+author uri:http://www.jnd.org
+discription:your theme providefully responsive....
+tags:e-commerce,one column,avadh,flix slider,responsive web....
+theme uri:http://www.testing.com
+*/
+.menu{
+	list-style:none;
+	word-spacing:90px;
+
+}
+.menu ul li{
+	display:inline-block;
+}
+.menu ul li a{
+	text-decoration: none;
+	color:gray;
+}
+.pw
+{
+	text-align:center;
+}
+.post
+{
+	display: inline-table;
+	background: orange;
+	width:75%;
+	height: 78%;
+	margin: 30px 20px ;
+
+}
+.wid
+{
+	display: inline-table;
+	background: pink;
+	width: 20px;
+	height: 78px
+}
+.wid li
+{
+	list-style: none;
+	text-align: center;
+}
